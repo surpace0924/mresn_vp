@@ -1,0 +1,12 @@
+{
+    "method": "single_esn_vp",
+    "dataset": "jartest",
+    "omit": true,
+    "H": 64,
+    "W": 64,
+    "C": 3,
+    "D": 30,
+    "Nx": 500,
+    "T_in": 15,
+    "T_out": 15
+}
