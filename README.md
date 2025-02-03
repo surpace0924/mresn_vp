@@ -10,3 +10,6 @@ If you use this code or data, please cite the following:
 ## License
 This code is distributed under an Apache-2.0 license.
 Note that our code depends on other libraries, including PyTorch, and must comply with their respective licences.
+
+## Disclaimer
+We are not responsible for any damage or loss caused by the content of this repository.
