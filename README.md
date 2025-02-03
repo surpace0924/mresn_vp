@@ -4,7 +4,7 @@ The official implementation of the paper ["Video Prediction Based on Multi-Resol
 
 If you use this code or data, please cite the following:
 ```
-[※] R. Sato, R. Harakawa and M. Iwahashi, "Video Prediction Based on Multiresolution Echo State Networks to Support Coagulant Dosage Decisions," in IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1-11, 2025, Art no. 5004411, doi: 10.1109/TIM.2024.3522343.
+R. Sato, R. Harakawa and M. Iwahashi, "Video Prediction Based on Multiresolution Echo State Networks to Support Coagulant Dosage Decisions," in IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1-11, 2025, Art no. 5004411, doi: 10.1109/TIM.2024.3522343.
 ```
 
 ## License
